@@ -16,6 +16,14 @@
       "entity": "Actor",
       "module": "wfrp4e-e4e",
       "system": "wfrp4e"
+    },
+    {
+      "name": "e4eScenes",
+      "label": "Rough Nights & Hard Days",
+      "path": "packs/eye-for-an-eye-scenes.db",
+      "entity": "Scene",
+      "module": "wfrp4e-e4e",
+      "system": "wfrp4e"
     }
   ],
   "languages": ["en"],
