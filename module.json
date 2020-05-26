@@ -2,7 +2,7 @@
   "name": "wfrp4e-e4e",
   "title": "Eye For An Eye (WFRP 4e)",
   "description": "Content from the Eye for an Eye adventure for Warhammer Fantary Roleplay 4e",
-  "version": "0.1",
+  "version": "0.11",
   "author": "Stu",
   "systems": ["wfrp4e"],
   "styles": [
@@ -11,7 +11,7 @@
   "packs": [
     {
       "name": "e4eActors",
-      "label": "Eye for an Eye",
+      "label": "Eye for an Eye Actors",
       "path": "packs/eye-for-an-eye-actors.db",
       "entity": "Actor",
       "module": "wfrp4e-e4e",
@@ -19,7 +19,7 @@
     },
     {
       "name": "e4eScenes",
-      "label": "Rough Nights & Hard Days",
+      "label": "Eye for an Eye Scenes",
       "path": "packs/eye-for-an-eye-scenes.db",
       "entity": "Scene",
       "module": "wfrp4e-e4e",
