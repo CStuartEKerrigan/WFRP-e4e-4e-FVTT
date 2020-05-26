@@ -1,0 +1,26 @@
+{
+  "name": "wfrp4e-e4e",
+  "title": "Eye For An Eye (WFRP 4e)",
+  "description": "Content from the Eye for an Eye adventure for Warhammer Fantary Roleplay 4e",
+  "version": "1",
+  "author": "Stu",
+  "systems": ["wfrp4e"],
+  "styles": [
+    "./styles.css"
+  ],
+  "packs": [
+    {
+      "name": "e4eActors",
+      "label": "Eye for an Eye",
+      "path": "packs/eye-for-an-eye-actors.db",
+      "entity": "Actor",
+      "module": "wfrp4e-e4e",
+      "system": "wfrp4e"
+    }
+  ],
+  "languages": ["en"],
+  "minimumCoreVersion": "0.6",
+  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-e4e-4e-FVTT/master/module.json",
+  "download": "https://github.com/CStuartEKerrigan/WFRP-e4e-4e-FVTT/archive/master.zip",
+  "url": "https://github.com/CStuartEKerrigan/WFRP-e4e-4e-FVTT/"
+} 
