@@ -2,7 +2,7 @@
   "name": "wfrp4e-e4e",
   "title": "Eye For An Eye (WFRP 4e)",
   "description": "Content from the Eye for an Eye adventure for Warhammer Fantary Roleplay 4e",
-  "version": "2.0",
+  "version": "2.1",
   "author": "Stu",
   "systems": ["wfrp4e"],
   "styles": [
@@ -35,7 +35,7 @@
     },
 	{
       "name": "e4eJournal",
-      "label": "Eye for an Eye Journal Entries",
+      "label": "Eye for an Eye Journal Items",
       "path": "packs/eye-for-an-eye-journal-items.db",
       "entity": "JournalEntry",
       "module": "wfrp4e-e4e",
@@ -50,8 +50,8 @@
       "system": "wfrp4e"		
 	},
 	{
-      "name": "e4eTraits",
-      "label": "Eye for an Eye Unique Trait",
+      "name": "e4eSFX",
+      "label": "Eye for an Eye Sound Effects",
       "path": "packs/eye-for-an-eye-sfx.db",
       "entity": "Playlist",
       "module": "wfrp4e-e4e",
