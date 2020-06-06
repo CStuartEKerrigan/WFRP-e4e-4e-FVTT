@@ -16,8 +16,7 @@ console.log("Eye for an Eye Script Loaded");
 	 if (attacker.testResult.weapon.name == "Korden's Hammer" && isDemon(defender)){
 		let chatData = {
 			user : game.user._id,
-			content : "<img style=\"float: left; padding-right: 5px; border: 0\" src=\"modules/wfrp4e-e4e/assets/images/icons/kordenshammer.png\" alt=\"Hammer\"><p>Korden's hammer is engraved with runes to ward off daemons. Against a foe such as this it also counts as having the <strong><a class=\"item-property\">Damaging</a></strong> and <strong><a class=\"item-property\">Penetrating</a></strong> Qualities</p>",
-			whisper : game.users.entities.filter(u => u.isGM).map(u => u._id)
+			content : "<img style=\"float: left; padding-right: 5px; border: 0\" src=\"modules/wfrp4e-e4e/assets/images/icons/kordenshammer.png\" alt=\"Hammer\"><p>Korden's hammer is engraved with runes to ward off daemons. Against a foe such as this it also counts as having the <strong><a class=\"item-property\">Damaging</a></strong> and <strong><a class=\"item-property\">Penetrating</a></strong> Qualities</p>"
 		};
 		ChatMessage.create(chatData,{});
 	 }
