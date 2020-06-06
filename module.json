@@ -2,7 +2,7 @@
   "name": "wfrp4e-e4e",
   "title": "Eye For An Eye (WFRP 4e)",
   "description": "Content from the Eye for an Eye adventure for Warhammer Fantary Roleplay 4e",
-  "version": "3.0",
+  "version": "3.1",
   "author": "Stu",
   "systems": ["wfrp4e"],
   "scripts": ["scripts/korden.js"],
