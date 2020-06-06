@@ -2,7 +2,7 @@
   "name": "wfrp4e-e4e",
   "title": "Eye For An Eye (WFRP 4e)",
   "description": "Content from the Eye for an Eye adventure for Warhammer Fantary Roleplay 4e",
-  "version": "2.5",
+  "version": "2.6",
   "author": "Stu",
   "systems": ["wfrp4e"],
   "styles": [
@@ -49,6 +49,14 @@
       "module": "wfrp4e-e4e",
       "system": "wfrp4e",
       "tag" : "talent"	  
+	},
+	{
+      "name": "e4eItem",
+      "label": "Eye for an Eye Unique Item",
+      "path": "packs/eye-for-an-eye-unique-item.db",
+      "entity": "Item",
+      "module": "wfrp4e-e4e",
+      "system": "wfrp4e"
 	},
 	{
       "name": "e4eSFX",
