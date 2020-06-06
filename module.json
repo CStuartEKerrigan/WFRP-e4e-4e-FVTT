@@ -2,7 +2,7 @@
   "name": "wfrp4e-e4e",
   "title": "Eye For An Eye (WFRP 4e)",
   "description": "Content from the Eye for an Eye adventure for Warhammer Fantary Roleplay 4e",
-  "version": "2.3",
+  "version": "2.4",
   "author": "Stu",
   "systems": ["wfrp4e"],
   "styles": [
@@ -47,7 +47,8 @@
       "path": "packs/eye-for-an-eye-traits.db",
       "entity": "Item",
       "module": "wfrp4e-e4e",
-      "system": "wfrp4e"		
+      "system": "wfrp4e",
+      "tag" : "talent"	  
 	},
 	{
       "name": "e4eSFX",
