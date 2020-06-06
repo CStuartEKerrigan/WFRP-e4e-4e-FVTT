@@ -5,6 +5,7 @@
   "version": "2.6",
   "author": "Stu",
   "systems": ["wfrp4e"],
+  "scripts": ["scripts/korden.js"],
   "styles": [
     "./styles.css"
   ],
